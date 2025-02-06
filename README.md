@@ -1,0 +1,10 @@
+# Data sources
+- NYC_Census_Tracts_for_2020_US_Census.geojson - https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page
+- 2020 Census Tracts_20250206.geojson - https://data.cityofnewyork.us/City-Government/2020-Census-Tracts/63ge-mke6/about_data
+- nyc_boroughs.geojson - https://cartographyvectors.com/map/1198-nyc-boroughs
+- Building_Footprint.kml - https://data.cityofnewyork.us/City-Government/Building-Footprints/5zhs-2jue/about_data
+- Parks_Properties_20250123.kml - https://data.cityofnewyork.us/Recreation/Parks-Properties/enfh-gkve/about_data
+- NYC_Planimetric_Database__Hydrography_20250123.csv - https://data.cityofnewyork.us/Environment/NYC-Planimetric-Database-Hydrography/drh3-e2fd
+- 2015_Street_Tree_Census_-_Tree_Data_20250205.csv - https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh/about_data
+- MTA Subway Stations_20250206.geojson - https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data
+- the remaining data source files were taken directly from challenge's website - https://challenge.ey.com/challenges/the-2025-ey-open-science-ai-and-data-challenge-cooling-urban-heat-islands-ey-participants
