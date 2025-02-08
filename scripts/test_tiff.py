@@ -1,6 +1,9 @@
 import rasterio
 import numpy as np
+import matplotlib
+matplotlib.use('TkAgg')  # Set interactive backend
 import matplotlib.pyplot as plt
+
 
 # Open the TIFF file
 tiff_path = "./../S2_indices_v4_single_0601_0901.tiff"
