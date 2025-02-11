@@ -7,4 +7,6 @@
 - NYC_Planimetric_Database__Hydrography_20250123.csv - https://data.cityofnewyork.us/Environment/NYC-Planimetric-Database-Hydrography/drh3-e2fd
 - 2015_Street_Tree_Census_-_Tree_Data_20250205.csv - https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh/about_data
 - MTA Subway Stations_20250206.geojson - https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data
+- NYC_Zoning_Districts.geojson - https://www.nyc.gov/site/planning/data-maps/open-data/dwn-gis-zoning.page
+- MapPLUTO.shp - https://www.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
 - the remaining data source files were taken directly from challenge's website - https://challenge.ey.com/challenges/the-2025-ey-open-science-ai-and-data-challenge-cooling-urban-heat-islands-ey-participants
