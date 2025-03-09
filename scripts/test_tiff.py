@@ -23,7 +23,7 @@ plt.imshow(band1, cmap='RdYlGn', interpolation='nearest')
 plt.colorbar(label="NDVI Value")
 plt.title("NDVI TIFF Visualization")
 plt.xlabel("Pixel Column")
-plt.ylabel("Pixel Row")
+plt.ylabel("Pixel Row")pip
 plt.show()
 
 # Plot a histogram of NDVI values
